@@ -1,0 +1,14 @@
+diff --git a/Deexith.txt b/Deexith.txt
+index eaf708d..c296be5 100644
+--- a/Deexith.txt
++++ b/Deexith.txt
+@@ -1,7 +1,4 @@
+ Hi i am deexith
+-<<<<<<< HEAD
+-I am a temp in qcom
+-=======
+ I am a temp in qcom
+ My parent company is tessolve
+->>>>>>> deexith
++My bday is on 17th jan
+\ No newline at end of file
